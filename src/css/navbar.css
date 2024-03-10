@@ -1,0 +1,6 @@
+@media (max-width: 425px) { /*Desaparece el buscador en pantallas pequeñas*/
+    .form-control,
+    .btn-outline-success {
+      display: none;
+    }
+  }
